@@ -8,3 +8,10 @@ h2{
 a{
     color: red;
 }
+.header{
+    text-align: center;
+}
+.footer{
+    background-color: rgb(5, 5, 34);
+    text-align: center;
+}
